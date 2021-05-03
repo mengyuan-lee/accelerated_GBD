@@ -22,7 +22,7 @@ Run "main_generate.m".
 
 ## Run
 
-Run the main programm.
+Run the main program.
 
 ```
 python main_train.py
