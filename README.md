@@ -4,7 +4,7 @@ This repository contains the entire code for our TWC work "Accelerating Generali
 
 For any reproduce, further research or development, please kindly cite our TWC Journal paper:
 
-M. Lee, N. Ma, G. Yu, and H. Dai, “Accelerating generalized Benders decomposition for wireless resource allocation”, IEEE Trans. Commun., vol. 20, no. 2, pp. 1233-1247, Feb. 2021.
+M. Lee, N. Ma, G. Yu, and H. Dai, “Accelerating generalized Benders decomposition for wireless resource allocation”, IEEE Trans. Wireless Commun., vol. 20, no. 2, pp. 1233-1247, Feb. 2021.
 
 # How to use?
 ## Requirements
